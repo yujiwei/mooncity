@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://xxx/xxx.ipa</string>
+                    <string>http://share.weiyun.com/ced5f49e48d2a4f32fa39b8c9607ba87</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>xxx.ipa</string>
+                <string>MoonCityGame.ipa</string>
             </dict>
         </dict>
     </array>
