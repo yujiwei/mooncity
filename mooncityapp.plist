@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://112.74.101.67/appdownload/月盈财富1.0.ipa</string>
+                    <string>http://112.74.101.67/appdownload/yycf_1.0.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>月盈财富1.0.ipa</string>
+                <string>yycf_1.0.ipa</string>
             </dict>
         </dict>
     </array>
